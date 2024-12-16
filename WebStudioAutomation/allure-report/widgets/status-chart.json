@@ -1,0 +1,1 @@
+[{"uid":"c76c21396c661978","name":"deleteMachineCatalog","time":{"start":1733737830316,"stop":1733737839219,"duration":8903},"status":"broken","severity":"normal"},{"uid":"2dbc72339a5d2c5d","name":"testCreateMachineCatalog","time":{"start":1733737783907,"stop":1733737795059,"duration":11152},"status":"broken","severity":"normal"}]
